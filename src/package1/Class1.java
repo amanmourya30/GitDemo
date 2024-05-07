@@ -21,6 +21,11 @@ public class Class1 {
         String weekday = "friday";
         driver.get("https://testautomationpractice.blogspot.com/");
         
+        
+        System.out.println("PostJira");
+        System.out.println("PostJira2");
+        System.out.println("PostJira3");
+        
         /*driver.findElement(By.cssSelector("#name")).sendKeys("Aman Mourya");
         driver.findElement(By.cssSelector("#email")).sendKeys("aman@email.com");
         driver.findElement(By.cssSelector("#phone")).sendKeys("1234567890");
